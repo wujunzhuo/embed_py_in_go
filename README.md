@@ -1,0 +1,1 @@
+# embed_py_in_go
